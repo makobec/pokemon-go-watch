@@ -1,8 +1,8 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-23T11:51:00+08:00",
-  "Lunala 2310/2887": "MSwamp 1699/2124\nSGiraA 1931/2414",
+  "updated_at": "2026-08-23T11:53:00+08:00",
+  "display": "Lunala 2310/2887\nMSwamp 1699/2124\nSGiraA 1931/2414",
   "raids": [
     {
       "pokemon": "Lunala",
