@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Manila",
+  "updated_at": "2026-08-23T11:00:00+08:00",
+  "title": "RAID HUNDOS",
+  "display": "Lunala 2310/2887 • Swampert 1699/2124 • S.Gira 1931/2414",
+  "line1": "Lunala 2310 | WB 2887",
+  "line2": "Swampert 1699 | WB 2124",
+  "line3": "S.Gira 1931 | WB 2414",
+  "legend": "CP / weather-boosted CP",
+  "raids": [
+    {
+      "pokemon": "Lunala",
+      "raid_type": "5-star",
+      "hundo_cp": 2310,
+      "weather_hundo_cp": 2887,
+      "weather": ["Windy", "Fog"],
+      "starts_local": "2026-08-19T06:00:00+08:00",
+      "ends_local": "2026-08-25T22:00:00+08:00"
+    },
+    {
+      "pokemon": "Swampert",
+      "raid_boss": "Mega Swampert",
+      "raid_type": "Mega",
+      "hundo_cp": 1699,
+      "weather_hundo_cp": 2124,
+      "weather": ["Rainy", "Sunny"],
+      "note": "Mega raids catch regular Swampert",
+      "starts_local": "2026-08-19T06:00:00+08:00",
+      "ends_local": "2026-08-25T22:00:00+08:00"
+    },
+    {
+      "pokemon": "Shadow Giratina (Altered)",
+      "raid_type": "5-star Shadow",
+      "hundo_cp": 1931,
+      "weather_hundo_cp": 2414,
+      "weather": ["Windy", "Fog"],
+      "availability": "weekends",
+      "starts_local": "2026-08-05T06:00:00+08:00",
+      "ends_local": "2026-09-08T22:00:00+08:00"
+    }
+  ]
+}
