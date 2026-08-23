@@ -1,8 +1,8 @@
 {
   "schema_version": 4,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-23T11:56:00+08:00",
-  "hundo-values": "Lu 2310/2887\nMS 1699/2124\nSG 1931/2414",
+  "updated_at": "2026-08-24T07:04:44+08:00",
+  "hundo-values": "Lu 2310/2887\nMS 1699/2124",
   "raids": [
     {
       "pokemon": "Lunala",
@@ -12,30 +12,18 @@
       "weather_hundo_cp": 2887,
       "weather": ["Windy", "Fog"],
       "starts_local": "2026-08-19T06:00:00+08:00",
-      "ends_local": "2026-08-25T22:00:00+08:00"
+      "ends_local": "2026-08-25T10:00:00+08:00"
     },
     {
-      "pokemon": "Swampert",
+      "pokemon": "Mega Swampert",
       "short_name": "MS",
-      "raid_boss": "Mega Swampert",
       "raid_type": "Mega",
+      "catch_pokemon": "Swampert",
       "hundo_cp": 1699,
       "weather_hundo_cp": 2124,
       "weather": ["Rainy", "Sunny"],
-      "note": "Mega raids catch regular Swampert",
       "starts_local": "2026-08-19T06:00:00+08:00",
-      "ends_local": "2026-08-25T22:00:00+08:00"
-    },
-    {
-      "pokemon": "Shadow Giratina (Altered Forme)",
-      "short_name": "SG",
-      "raid_type": "5-star Shadow",
-      "hundo_cp": 1931,
-      "weather_hundo_cp": 2414,
-      "weather": ["Fog", "Windy"],
-      "availability": "weekends; active today",
-      "starts_local": "2026-08-05T06:00:00+08:00",
-      "ends_local": "2026-09-08T22:00:00+08:00"
+      "ends_local": "2026-08-25T10:00:00+08:00"
     }
   ]
 }
