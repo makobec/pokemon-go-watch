@@ -1,13 +1,8 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-23T11:33:00+08:00",
-  "title": "",
-  "display": "Lunala 2310/2887\nM.Swamp 1699/2124\nS.Gira-A 1931/2414",
-  "line1": "Lunala 2310/2887",
-  "line2": "M.Swamp 1699/2124",
-  "line3": "S.Gira-A 1931/2414",
-  "legend": "normal/WB hundo CP",
+  "updated_at": "2026-08-23T11:51:00+08:00",
+  "Lunala 2310/2887": "MSwamp 1699/2124\nSGiraA 1931/2414",
   "raids": [
     {
       "pokemon": "Lunala",
@@ -21,7 +16,7 @@
     },
     {
       "pokemon": "Swampert",
-      "short_name": "M.Swamp",
+      "short_name": "MSwamp",
       "raid_boss": "Mega Swampert",
       "raid_type": "Mega",
       "hundo_cp": 1699,
@@ -33,7 +28,7 @@
     },
     {
       "pokemon": "Shadow Giratina (Altered Forme)",
-      "short_name": "S.Gira-A",
+      "short_name": "SGiraA",
       "raid_type": "5-star Shadow",
       "hundo_cp": 1931,
       "weather_hundo_cp": 2414,
