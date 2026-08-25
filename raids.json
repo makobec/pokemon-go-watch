@@ -1,7 +1,7 @@
 {
   "schema_version": 4,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-25T07:36:58+08:00",
+  "updated_at": "2026-08-26T07:00:30+08:00",
   "hundo-values": "Lu 2310/2887\nMS 1699/2124",
   "raids": [
     {
@@ -12,7 +12,7 @@
       "weather_hundo_cp": 2887,
       "weather": ["Windy", "Fog"],
       "starts_local": "2026-08-19T10:00:00+08:00",
-      "ends_local": "2026-08-25T10:00:00+08:00"
+      "ends_local": "2026-08-26T10:00:00+08:00"
     },
     {
       "pokemon": "Mega Swampert",
@@ -23,7 +23,7 @@
       "weather_hundo_cp": 2124,
       "weather": ["Rainy", "Sunny"],
       "starts_local": "2026-08-19T10:00:00+08:00",
-      "ends_local": "2026-08-25T10:00:00+08:00"
+      "ends_local": "2026-08-26T10:00:00+08:00"
     }
   ]
 }
