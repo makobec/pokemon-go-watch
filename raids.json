@@ -1,29 +1,38 @@
 {
   "schema_version": 4,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-26T07:00:30+08:00",
-  "hundo-values": "Lu 2310/2887\nMS 1699/2124",
+  "updated_at": "2026-08-27T07:02:53+08:00",
+  "hundo-values": "RR 1784/2230\nRI 1784/2230\nRS 1398/1748",
   "raids": [
     {
-      "pokemon": "Lunala",
-      "short_name": "Lu",
+      "pokemon": "Regirock",
+      "short_name": "RR",
       "raid_type": "5-star",
-      "hundo_cp": 2310,
-      "weather_hundo_cp": 2887,
-      "weather": ["Windy", "Fog"],
-      "starts_local": "2026-08-19T10:00:00+08:00",
-      "ends_local": "2026-08-26T10:00:00+08:00"
+      "hundo_cp": 1784,
+      "weather_hundo_cp": 2230,
+      "weather": ["Partly Cloudy"],
+      "starts_local": "2026-08-26T10:00:00+08:00",
+      "ends_local": "2026-09-08T10:00:00+08:00"
     },
     {
-      "pokemon": "Mega Swampert",
-      "short_name": "MS",
-      "raid_type": "Mega",
-      "catch_pokemon": "Swampert",
-      "hundo_cp": 1699,
-      "weather_hundo_cp": 2124,
-      "weather": ["Rainy", "Sunny"],
-      "starts_local": "2026-08-19T10:00:00+08:00",
-      "ends_local": "2026-08-26T10:00:00+08:00"
+      "pokemon": "Regice",
+      "short_name": "RI",
+      "raid_type": "5-star",
+      "hundo_cp": 1784,
+      "weather_hundo_cp": 2230,
+      "weather": ["Snow"],
+      "starts_local": "2026-08-26T10:00:00+08:00",
+      "ends_local": "2026-09-08T10:00:00+08:00"
+    },
+    {
+      "pokemon": "Registeel",
+      "short_name": "RS",
+      "raid_type": "5-star",
+      "hundo_cp": 1398,
+      "weather_hundo_cp": 1748,
+      "weather": ["Snow"],
+      "starts_local": "2026-08-26T10:00:00+08:00",
+      "ends_local": "2026-09-08T10:00:00+08:00"
     }
   ]
 }
