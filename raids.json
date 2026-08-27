@@ -1,8 +1,8 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-27T07:02:53+08:00",
-  "hundo-values": "RR 1784/2230\nRI 1784/2230\nRS 1398/1748",
+  "updated_at": "2026-08-27T08:34:00+08:00",
+  "hundo-values": "RR&RI 1784/2230\nRS 1398/1748",
   "raids": [
     {
       "pokemon": "Regirock",
