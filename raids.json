@@ -1,7 +1,7 @@
 {
   "schema_version": 5,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-27T08:34:00+08:00",
+  "updated_at": "2026-08-28T06:59:12+08:00",
   "hundo-values": "RR&RI 1784/2230\nRS 1398/1748",
   "raids": [
     {
@@ -11,8 +11,8 @@
       "hundo_cp": 1784,
       "weather_hundo_cp": 2230,
       "weather": ["Partly Cloudy"],
-      "starts_local": "2026-08-26T10:00:00+08:00",
-      "ends_local": "2026-09-08T10:00:00+08:00"
+      "starts_local": "2026-08-26T06:00:00+08:00",
+      "ends_local": "2026-09-08T22:00:00+08:00"
     },
     {
       "pokemon": "Regice",
@@ -21,8 +21,8 @@
       "hundo_cp": 1784,
       "weather_hundo_cp": 2230,
       "weather": ["Snow"],
-      "starts_local": "2026-08-26T10:00:00+08:00",
-      "ends_local": "2026-09-08T10:00:00+08:00"
+      "starts_local": "2026-08-26T06:00:00+08:00",
+      "ends_local": "2026-09-08T22:00:00+08:00"
     },
     {
       "pokemon": "Registeel",
@@ -31,8 +31,8 @@
       "hundo_cp": 1398,
       "weather_hundo_cp": 1748,
       "weather": ["Snow"],
-      "starts_local": "2026-08-26T10:00:00+08:00",
-      "ends_local": "2026-09-08T10:00:00+08:00"
+      "starts_local": "2026-08-26T06:00:00+08:00",
+      "ends_local": "2026-09-08T22:00:00+08:00"
     }
   ]
 }
