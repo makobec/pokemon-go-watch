@@ -1,9 +1,18 @@
 {
   "schema_version": 5,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-28T06:59:12+08:00",
-  "hundo-values": "RR&RI 1784/2230\nRS 1398/1748",
+  "updated_at": "2026-08-29T07:02:17+08:00",
+  "hundo-values": "SG 1931/2414\nRR&RI 1784/2230",
   "raids": [
+    {
+      "pokemon": "Shadow Giratina Altered",
+      "short_name": "SG",
+      "raid_type": "5-star Shadow",
+      "hundo_cp": 1931,
+      "weather_hundo_cp": 2414,
+      "weather": ["Fog", "Windy"],
+      "availability": "weekends; active today"
+    },
     {
       "pokemon": "Regirock",
       "short_name": "RR",
@@ -11,8 +20,7 @@
       "hundo_cp": 1784,
       "weather_hundo_cp": 2230,
       "weather": ["Partly Cloudy"],
-      "starts_local": "2026-08-26T06:00:00+08:00",
-      "ends_local": "2026-09-08T22:00:00+08:00"
+      "availability": "August 26 to September 8"
     },
     {
       "pokemon": "Regice",
@@ -21,18 +29,7 @@
       "hundo_cp": 1784,
       "weather_hundo_cp": 2230,
       "weather": ["Snow"],
-      "starts_local": "2026-08-26T06:00:00+08:00",
-      "ends_local": "2026-09-08T22:00:00+08:00"
-    },
-    {
-      "pokemon": "Registeel",
-      "short_name": "RS",
-      "raid_type": "5-star",
-      "hundo_cp": 1398,
-      "weather_hundo_cp": 1748,
-      "weather": ["Snow"],
-      "starts_local": "2026-08-26T06:00:00+08:00",
-      "ends_local": "2026-09-08T22:00:00+08:00"
+      "availability": "August 26 to September 8"
     }
   ]
 }
