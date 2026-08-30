@@ -1,18 +1,9 @@
 {
   "schema_version": 5,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-30T07:00:32+08:00",
-  "hundo-values": "SG 1931/2414\nRR&RI 1784/2230",
+  "updated_at": "2026-08-31T07:02:55+08:00",
+  "hundo-values": "RR&RI 1784/2230\nRS 1398/1748",
   "raids": [
-    {
-      "pokemon": "Shadow Giratina Altered",
-      "short_name": "SG",
-      "raid_type": "5-star Shadow",
-      "hundo_cp": 1931,
-      "weather_hundo_cp": 2414,
-      "weather": ["Fog", "Windy"],
-      "availability": "weekends; active today"
-    },
     {
       "pokemon": "Regirock",
       "short_name": "RR",
@@ -20,7 +11,7 @@
       "hundo_cp": 1784,
       "weather_hundo_cp": 2230,
       "weather": ["Partly Cloudy"],
-      "availability": "August 26 to September 8"
+      "availability": "active August 31; 5-star raids throughout Mega Ascension"
     },
     {
       "pokemon": "Regice",
@@ -29,7 +20,16 @@
       "hundo_cp": 1784,
       "weather_hundo_cp": 2230,
       "weather": ["Snow"],
-      "availability": "August 26 to September 8"
+      "availability": "active August 31; 5-star raids throughout Mega Ascension"
+    },
+    {
+      "pokemon": "Registeel",
+      "short_name": "RS",
+      "raid_type": "5-star",
+      "hundo_cp": 1398,
+      "weather_hundo_cp": 1748,
+      "weather": ["Snow"],
+      "availability": "active August 31; 5-star raids throughout Mega Ascension"
     }
   ]
 }
