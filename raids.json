@@ -1,7 +1,7 @@
 {
   "schema_version": 5,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-08-31T07:02:55+08:00",
+  "updated_at": "2026-09-01T06:57:13+08:00",
   "hundo-values": "RR&RI 1784/2230\nRS 1398/1748",
   "raids": [
     {
@@ -11,7 +11,7 @@
       "hundo_cp": 1784,
       "weather_hundo_cp": 2230,
       "weather": ["Partly Cloudy"],
-      "availability": "active August 31; 5-star raids throughout Mega Ascension"
+      "availability": "active September 1; regular 5-star rotation August 26 through September 8, 2026"
     },
     {
       "pokemon": "Regice",
@@ -20,7 +20,7 @@
       "hundo_cp": 1784,
       "weather_hundo_cp": 2230,
       "weather": ["Snow"],
-      "availability": "active August 31; 5-star raids throughout Mega Ascension"
+      "availability": "active September 1; regular 5-star rotation August 26 through September 8, 2026"
     },
     {
       "pokemon": "Registeel",
@@ -29,7 +29,7 @@
       "hundo_cp": 1398,
       "weather_hundo_cp": 1748,
       "weather": ["Snow"],
-      "availability": "active August 31; 5-star raids throughout Mega Ascension"
+      "availability": "active September 1; regular 5-star rotation August 26 through September 8, 2026"
     }
   ]
 }
