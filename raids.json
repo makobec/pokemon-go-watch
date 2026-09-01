@@ -1,35 +1,38 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-01T06:57:13+08:00",
-  "hundo-values": "RR&RI 1784/2230\nRS 1398/1748",
+  "updated_at": "2026-09-01T10:01:00+08:00",
+  "hundo-values": "MF 1347/1683\nLo 2178/2723\nLa 2006/2507",
   "raids": [
     {
-      "pokemon": "Regirock",
-      "short_name": "RR",
-      "raid_type": "5-star",
-      "hundo_cp": 1784,
-      "weather_hundo_cp": 2230,
-      "weather": ["Partly Cloudy"],
-      "availability": "active September 1; regular 5-star rotation August 26 through September 8, 2026"
+      "pokemon": "Mega Falinks",
+      "catch_pokemon": "Falinks",
+      "short_name": "MF",
+      "raid_type": "Mega",
+      "hundo_cp": 1347,
+      "weather_hundo_cp": 1683,
+      "weather": ["Cloudy"],
+      "availability": "Mega Ascension event; September 1, 2026 10:00 AM to September 2, 2026 10:00 AM local time"
     },
     {
-      "pokemon": "Regice",
-      "short_name": "RI",
-      "raid_type": "5-star",
-      "hundo_cp": 1784,
-      "weather_hundo_cp": 2230,
-      "weather": ["Snow"],
-      "availability": "active September 1; regular 5-star rotation August 26 through September 8, 2026"
+      "pokemon": "Mega Latios",
+      "catch_pokemon": "Latios",
+      "short_name": "Lo",
+      "raid_type": "Mega",
+      "hundo_cp": 2178,
+      "weather_hundo_cp": 2723,
+      "weather": ["Windy"],
+      "availability": "Mega Ascension event; may appear throughout August 31 to September 4, 2026 local time"
     },
     {
-      "pokemon": "Registeel",
-      "short_name": "RS",
-      "raid_type": "5-star",
-      "hundo_cp": 1398,
-      "weather_hundo_cp": 1748,
-      "weather": ["Snow"],
-      "availability": "active September 1; regular 5-star rotation August 26 through September 8, 2026"
+      "pokemon": "Mega Latias",
+      "catch_pokemon": "Latias",
+      "short_name": "La",
+      "raid_type": "Mega",
+      "hundo_cp": 2006,
+      "weather_hundo_cp": 2507,
+      "weather": ["Windy"],
+      "availability": "Mega Ascension event; may appear throughout August 31 to September 4, 2026 local time"
     }
   ]
 }
