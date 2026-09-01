@@ -1,7 +1,7 @@
 {
   "schema_version": 6,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-01T10:01:00+08:00",
+  "updated_at": "2026-09-02T07:00:29+08:00",
   "hundo-values": "MF 1347/1683\nLo 2178/2723\nLa 2006/2507",
   "raids": [
     {
@@ -12,7 +12,7 @@
       "hundo_cp": 1347,
       "weather_hundo_cp": 1683,
       "weather": ["Cloudy"],
-      "availability": "Mega Ascension event; September 1, 2026 10:00 AM to September 2, 2026 10:00 AM local time"
+      "availability": "Mega Ascension event; active September 1, 2026 10:00 AM through September 2, 2026 10:00 AM local time"
     },
     {
       "pokemon": "Mega Latios",
@@ -22,7 +22,7 @@
       "hundo_cp": 2178,
       "weather_hundo_cp": 2723,
       "weather": ["Windy"],
-      "availability": "Mega Ascension event; may appear throughout August 31 to September 4, 2026 local time"
+      "availability": "Mega Ascension event; may appear throughout August 31 through September 4, 2026 local time"
     },
     {
       "pokemon": "Mega Latias",
@@ -32,7 +32,7 @@
       "hundo_cp": 2006,
       "weather_hundo_cp": 2507,
       "weather": ["Windy"],
-      "availability": "Mega Ascension event; may appear throughout August 31 to September 4, 2026 local time"
+      "availability": "Mega Ascension event; may appear throughout August 31 through September 4, 2026 local time"
     }
   ]
 }
