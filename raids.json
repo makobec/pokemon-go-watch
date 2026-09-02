@@ -1,18 +1,18 @@
 {
   "schema_version": 6,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-02T07:00:29+08:00",
-  "hundo-values": "MF 1347/1683\nLo 2178/2723\nLa 2006/2507",
+  "updated_at": "2026-09-03T07:01:45+08:00",
+  "hundo-values": "MS 1204/1506\nLo 2178/2723\nLa 2006/2507",
   "raids": [
     {
-      "pokemon": "Mega Falinks",
-      "catch_pokemon": "Falinks",
-      "short_name": "MF",
+      "pokemon": "Mega Skarmory",
+      "catch_pokemon": "Skarmory",
+      "short_name": "MS",
       "raid_type": "Mega",
-      "hundo_cp": 1347,
-      "weather_hundo_cp": 1683,
-      "weather": ["Cloudy"],
-      "availability": "Mega Ascension event; active September 1, 2026 10:00 AM through September 2, 2026 10:00 AM local time"
+      "hundo_cp": 1204,
+      "weather_hundo_cp": 1506,
+      "weather": ["Snow", "Windy"],
+      "availability": "Mega Ascension event; active September 2, 2026 10:00 AM through September 3, 2026 10:00 AM local time"
     },
     {
       "pokemon": "Mega Latios",
