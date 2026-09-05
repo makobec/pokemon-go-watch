@@ -1,38 +1,37 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-03T07:01:45+08:00",
-  "hundo-values": "MS 1204/1506\nLo 2178/2723\nLa 2006/2507",
+  "updated_at": "2026-09-05T11:26:00+08:00",
+  "hundo-values": "AM 1821/2276\nMX 2387/2984\nMS 1476/1846",
   "raids": [
     {
-      "pokemon": "Mega Skarmory",
-      "catch_pokemon": "Skarmory",
+      "pokemon": "Armored Mewtwo",
+      "short_name": "AM",
+      "raid_type": "5-star",
+      "hundo_cp": 1821,
+      "weather_hundo_cp": 2276,
+      "weather": ["Windy"],
+      "availability": "Pokémon GO Fest 2026: Mega Finale; September 5-6, 2026, 10:00 AM-6:00 PM local time; appears in 5-star raids throughout event hours"
+    },
+    {
+      "pokemon": "Mega Mewtwo X",
+      "catch_pokemon": "Mewtwo",
+      "short_name": "MX",
+      "raid_type": "Super Mega",
+      "hundo_cp": 2387,
+      "weather_hundo_cp": 2984,
+      "weather": ["Windy"],
+      "availability": "Pokémon GO Fest 2026: Mega Finale; Saturday September 5, 2026, during 10:00 AM-6:00 PM local event hours at certain Gyms"
+    },
+    {
+      "pokemon": "Mega Starmie",
+      "catch_pokemon": "Starmie",
       "short_name": "MS",
       "raid_type": "Mega",
-      "hundo_cp": 1204,
-      "weather_hundo_cp": 1506,
-      "weather": ["Snow", "Windy"],
-      "availability": "Mega Ascension event; active September 2, 2026 10:00 AM through September 3, 2026 10:00 AM local time"
-    },
-    {
-      "pokemon": "Mega Latios",
-      "catch_pokemon": "Latios",
-      "short_name": "Lo",
-      "raid_type": "Mega",
-      "hundo_cp": 2178,
-      "weather_hundo_cp": 2723,
-      "weather": ["Windy"],
-      "availability": "Mega Ascension event; may appear throughout August 31 through September 4, 2026 local time"
-    },
-    {
-      "pokemon": "Mega Latias",
-      "catch_pokemon": "Latias",
-      "short_name": "La",
-      "raid_type": "Mega",
-      "hundo_cp": 2006,
-      "weather_hundo_cp": 2507,
-      "weather": ["Windy"],
-      "availability": "Mega Ascension event; may appear throughout August 31 through September 4, 2026 local time"
+      "hundo_cp": 1476,
+      "weather_hundo_cp": 1846,
+      "weather": ["Rainy", "Windy"],
+      "availability": "Pokémon GO Fest 2026: Mega Finale, Mindworks Canal; September 5, 2026, 11:00 AM-12:00 PM and 3:00 PM-4:00 PM local time"
     }
   ]
 }
