@@ -1,35 +1,11 @@
 {
-  "schema_version": 8,
+  "schema_version": 9,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-07T16:13:00+08:00",
-  "hundo-values": "RR&RI 1784/2230\nRS 1398/1748",
+  "updated_at": "2026-09-10T07:02:53+08:00",
+  "hundo-values": "MB 1054/1318\nZa 2188/2735\nLa 1509/1886",
   "raids": [
-    {
-      "pokemon": "Regirock",
-      "short_name": "RR",
-      "raid_type": "5-star",
-      "hundo_cp": 1784,
-      "weather_hundo_cp": 2230,
-      "weather": ["Partly Cloudy"],
-      "availability": "Current regular 5-star rotation in Asia/Manila on September 7, 2026; scheduled August 26 through September 8, 2026"
-    },
-    {
-      "pokemon": "Regice",
-      "short_name": "RI",
-      "raid_type": "5-star",
-      "hundo_cp": 1784,
-      "weather_hundo_cp": 2230,
-      "weather": ["Snow"],
-      "availability": "Current regular 5-star rotation in Asia/Manila on September 7, 2026; scheduled August 26 through September 8, 2026"
-    },
-    {
-      "pokemon": "Registeel",
-      "short_name": "RS",
-      "raid_type": "5-star",
-      "hundo_cp": 1398,
-      "weather_hundo_cp": 1748,
-      "weather": ["Snow"],
-      "availability": "Current regular 5-star rotation in Asia/Manila on September 7, 2026; scheduled August 26 through September 8, 2026"
-    }
+    {"pokemon":"Mega Beedrill","catch_pokemon":"Beedrill","short_name":"MB","raid_type":"Mega","hundo_cp":1054,"weather_hundo_cp":1318,"weather":["Rainy","Cloudy"],"availability":"Mega Squads event raid; September 8, 2026 10:00 AM through September 15, 2026 local time"},
+    {"pokemon":"Zacian (Hero of Many Battles)","short_name":"Za","raid_type":"5-star","hundo_cp":2188,"weather_hundo_cp":2735,"weather":["Cloudy"],"availability":"Regular 5-star rotation; September 9 through September 15, 2026 local time"},
+    {"pokemon":"Lapras","short_name":"La","raid_type":"3-star","hundo_cp":1509,"weather_hundo_cp":1886,"weather":["Rainy","Snow"],"availability":"Current regular raid pool; September 9, 2026 6:00 AM through September 11, 2026 10:00 AM local time"}
   ]
 }
