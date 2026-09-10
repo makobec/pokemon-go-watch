@@ -1,11 +1,36 @@
 {
-  "schema_version": 9,
+  "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-10T07:02:53+08:00",
+  "updated_at": "2026-09-11T06:57:51+08:00",
   "hundo-values": "MB 1054/1318\nZa 2188/2735\nLa 1509/1886",
   "raids": [
-    {"pokemon":"Mega Beedrill","catch_pokemon":"Beedrill","short_name":"MB","raid_type":"Mega","hundo_cp":1054,"weather_hundo_cp":1318,"weather":["Rainy","Cloudy"],"availability":"Mega Squads event raid; September 8, 2026 10:00 AM through September 15, 2026 local time"},
-    {"pokemon":"Zacian (Hero of Many Battles)","short_name":"Za","raid_type":"5-star","hundo_cp":2188,"weather_hundo_cp":2735,"weather":["Cloudy"],"availability":"Regular 5-star rotation; September 9 through September 15, 2026 local time"},
-    {"pokemon":"Lapras","short_name":"La","raid_type":"3-star","hundo_cp":1509,"weather_hundo_cp":1886,"weather":["Rainy","Snow"],"availability":"Current regular raid pool; September 9, 2026 6:00 AM through September 11, 2026 10:00 AM local time"}
+    {
+      "pokemon": "Mega Beedrill",
+      "catch_pokemon": "Beedrill",
+      "short_name": "MB",
+      "raid_type": "Mega",
+      "hundo_cp": 1054,
+      "weather_hundo_cp": 1318,
+      "weather": ["Rainy", "Cloudy"],
+      "availability": "Mega Squads event raid; active now on September 11, 2026 at 6:57 AM Asia/Manila; Mega Beedrill runs September 8-15, 2026 local time"
+    },
+    {
+      "pokemon": "Zacian (Hero of Many Battles)",
+      "short_name": "Za",
+      "raid_type": "5-star",
+      "hundo_cp": 2188,
+      "weather_hundo_cp": 2735,
+      "weather": ["Cloudy"],
+      "availability": "Regular 5-star rotation; active now on September 11, 2026 at 6:57 AM Asia/Manila; September 9-15, 2026 local time"
+    },
+    {
+      "pokemon": "Lapras",
+      "short_name": "La",
+      "raid_type": "3-star",
+      "hundo_cp": 1509,
+      "weather_hundo_cp": 1886,
+      "weather": ["Rainy", "Snow"],
+      "availability": "Current regular raid pool; active now on September 11, 2026 at 6:57 AM Asia/Manila; current pool ends at 10:00 AM local time on September 11, 2026"
+    }
   ]
 }
