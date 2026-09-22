@@ -1,36 +1,36 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-22T20:59:20+08:00",
-  "hundo-values": "Zm 2188/2735\nMV 1554/1943\nSA 1390/1737",
+  "updated_at": "2026-09-23T10:00:00+08:00",
+  "hundo-values": "XU 2249/2812\nMM 1347/1685\nST 1911/2389",
   "raids": [
     {
-      "pokemon": "Zamazenta (Hero of Many Battles)",
-      "short_name": "Zm",
+      "pokemon": "Xurkitree",
+      "short_name": "XU",
       "raid_type": "5-star",
-      "hundo_cp": 2188,
-      "weather_hundo_cp": 2735,
-      "weather": ["Cloudy"],
-      "availability": "Regular 5-star raid; active now on September 22, 2026 at 8:59 PM Asia/Manila; raid window ends at 10:00 PM local time"
+      "hundo_cp": 2249,
+      "weather_hundo_cp": 2812,
+      "weather": ["Rainy"],
+      "availability": "Regional 5-star raid; active from 6:00 AM local time on September 23, 2026; Asia-Pacific region; scheduled 10:00 AM data"
     },
     {
-      "pokemon": "Mega Venusaur",
-      "catch_pokemon": "Venusaur",
-      "short_name": "MV",
+      "pokemon": "Mega Malamar",
+      "catch_pokemon": "Malamar",
+      "short_name": "MM",
       "raid_type": "Mega",
-      "hundo_cp": 1554,
-      "weather_hundo_cp": 1943,
-      "weather": ["Sunny", "Cloudy"],
-      "availability": "Mega raid; active now on September 22, 2026 at 8:59 PM Asia/Manila; raid window ends at 10:00 PM local time"
+      "hundo_cp": 1347,
+      "weather_hundo_cp": 1685,
+      "weather": ["Fog", "Windy"],
+      "availability": "Mega raid; active from 6:00 AM local time on September 23, 2026; scheduled 10:00 AM data"
     },
     {
-      "pokemon": "Shadow Alolan Sandslash",
-      "short_name": "SA",
-      "raid_type": "Shadow 3-star",
-      "hundo_cp": 1390,
-      "weather_hundo_cp": 1737,
-      "weather": ["Snow"],
-      "availability": "Current daily Shadow raid pool; active now on September 22, 2026 at 8:59 PM Asia/Manila"
+      "pokemon": "Shadow Thundurus (Incarnate Forme)",
+      "short_name": "ST",
+      "raid_type": "Shadow 5-star",
+      "hundo_cp": 1911,
+      "weather_hundo_cp": 2389,
+      "weather": ["Rainy", "Windy"],
+      "availability": "Current Shadow raid pool; active through October 6, 2026; scheduled 10:00 AM data"
     }
   ]
 }
