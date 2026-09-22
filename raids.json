@@ -1,35 +1,36 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-22T15:02:28+08:00",
-  "hundo-values": "CG 1651/2064\nSk 1729/2162\nQv 1724/2155",
+  "updated_at": "2026-09-22T20:59:20+08:00",
+  "hundo-values": "Zm 2188/2735\nMV 1554/1943\nSA 1390/1737",
   "raids": [
     {
-      "pokemon": "Charizard wearing Friede's goggles",
-      "short_name": "CG",
-      "raid_type": "3-star",
-      "hundo_cp": 1651,
-      "weather_hundo_cp": 2064,
-      "weather": ["Sunny", "Windy"],
-      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 3:02 PM Asia/Manila; event ends at 8:00 PM local time"
+      "pokemon": "Zamazenta (Hero of Many Battles)",
+      "short_name": "Zm",
+      "raid_type": "5-star",
+      "hundo_cp": 2188,
+      "weather_hundo_cp": 2735,
+      "weather": ["Cloudy"],
+      "availability": "Regular 5-star raid; active now on September 22, 2026 at 8:59 PM Asia/Manila; raid window ends at 10:00 PM local time"
     },
     {
-      "pokemon": "Skeledirge",
-      "short_name": "Sk",
-      "raid_type": "3-star",
-      "hundo_cp": 1729,
-      "weather_hundo_cp": 2162,
-      "weather": ["Sunny", "Fog"],
-      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 3:02 PM Asia/Manila; event ends at 8:00 PM local time"
+      "pokemon": "Mega Venusaur",
+      "catch_pokemon": "Venusaur",
+      "short_name": "MV",
+      "raid_type": "Mega",
+      "hundo_cp": 1554,
+      "weather_hundo_cp": 1943,
+      "weather": ["Sunny", "Cloudy"],
+      "availability": "Mega raid; active now on September 22, 2026 at 8:59 PM Asia/Manila; raid window ends at 10:00 PM local time"
     },
     {
-      "pokemon": "Quaquaval",
-      "short_name": "Qv",
-      "raid_type": "3-star",
-      "hundo_cp": 1724,
-      "weather_hundo_cp": 2155,
-      "weather": ["Rainy", "Cloudy"],
-      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 3:02 PM Asia/Manila; event ends at 8:00 PM local time"
+      "pokemon": "Shadow Alolan Sandslash",
+      "short_name": "SA",
+      "raid_type": "Shadow 3-star",
+      "hundo_cp": 1390,
+      "weather_hundo_cp": 1737,
+      "weather": ["Snow"],
+      "availability": "Current daily Shadow raid pool; active now on September 22, 2026 at 8:59 PM Asia/Manila"
     }
   ]
 }
