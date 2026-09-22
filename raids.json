@@ -1,7 +1,7 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-22T12:00:13+08:00",
+  "updated_at": "2026-09-22T15:02:28+08:00",
   "hundo-values": "CG 1651/2064\nSk 1729/2162\nQv 1724/2155",
   "raids": [
     {
@@ -11,7 +11,7 @@
       "hundo_cp": 1651,
       "weather_hundo_cp": 2064,
       "weather": ["Sunny", "Windy"],
-      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 12:00 PM Asia/Manila; event ends at 8:00 PM local time"
+      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 3:02 PM Asia/Manila; event ends at 8:00 PM local time"
     },
     {
       "pokemon": "Skeledirge",
@@ -20,7 +20,7 @@
       "hundo_cp": 1729,
       "weather_hundo_cp": 2162,
       "weather": ["Sunny", "Fog"],
-      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 12:00 PM Asia/Manila; event ends at 8:00 PM local time"
+      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 3:02 PM Asia/Manila; event ends at 8:00 PM local time"
     },
     {
       "pokemon": "Quaquaval",
@@ -29,7 +29,7 @@
       "hundo_cp": 1724,
       "weather_hundo_cp": 2155,
       "weather": ["Rainy", "Cloudy"],
-      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 12:00 PM Asia/Manila; event ends at 8:00 PM local time"
+      "availability": "Pokémon Horizons: The Series Celebration Event raid; active now on September 22, 2026 at 3:02 PM Asia/Manila; event ends at 8:00 PM local time"
     }
   ]
 }
