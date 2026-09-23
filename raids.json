@@ -1,7 +1,7 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-23T10:00:00+08:00",
+  "updated_at": "2026-09-24T00:03:00+08:00",
   "hundo-values": "XU 2249/2812\nMM 1347/1685\nST 1911/2389",
   "raids": [
     {
@@ -11,7 +11,7 @@
       "hundo_cp": 2249,
       "weather_hundo_cp": 2812,
       "weather": ["Rainy"],
-      "availability": "Regional 5-star raid; active from 6:00 AM local time on September 23, 2026; Asia-Pacific region; scheduled 10:00 AM data"
+      "availability": "Regional 5-star raid; active September 23-29, 2026 in Asia-Pacific"
     },
     {
       "pokemon": "Mega Malamar",
@@ -21,7 +21,7 @@
       "hundo_cp": 1347,
       "weather_hundo_cp": 1685,
       "weather": ["Fog", "Windy"],
-      "availability": "Mega raid; active from 6:00 AM local time on September 23, 2026; scheduled 10:00 AM data"
+      "availability": "Mega raid; active September 23-29, 2026"
     },
     {
       "pokemon": "Shadow Thundurus (Incarnate Forme)",
@@ -30,7 +30,7 @@
       "hundo_cp": 1911,
       "weather_hundo_cp": 2389,
       "weather": ["Rainy", "Windy"],
-      "availability": "Current Shadow raid pool; active through October 6, 2026; scheduled 10:00 AM data"
+      "availability": "Shadow raid; active September 9-October 6, 2026"
     }
   ]
 }
