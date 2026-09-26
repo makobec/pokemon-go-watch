@@ -1,36 +1,11 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-26T12:02:36+08:00",
+  "updated_at": "2026-09-26T15:00:19+08:00",
   "hundo-values": "XU 2249/2812\nMM 1347/1685\nST 1911/2389",
   "raids": [
-    {
-      "pokemon": "Xurkitree",
-      "short_name": "XU",
-      "raid_type": "5-star",
-      "hundo_cp": 2249,
-      "weather_hundo_cp": 2812,
-      "weather": ["Rainy"],
-      "availability": "Regional 5-star raid; active September 23-29, 2026 in Asia-Pacific"
-    },
-    {
-      "pokemon": "Mega Malamar",
-      "catch_pokemon": "Malamar",
-      "short_name": "MM",
-      "raid_type": "Mega",
-      "hundo_cp": 1347,
-      "weather_hundo_cp": 1685,
-      "weather": ["Fog", "Windy"],
-      "availability": "Mega raid; active September 23-29, 2026"
-    },
-    {
-      "pokemon": "Shadow Thundurus (Incarnate Forme)",
-      "short_name": "ST",
-      "raid_type": "Shadow 5-star",
-      "hundo_cp": 1911,
-      "weather_hundo_cp": 2389,
-      "weather": ["Rainy", "Windy"],
-      "availability": "Weekend Shadow 5-star raid; active September 26-27, 2026"
-    }
+    {"pokemon":"Xurkitree","short_name":"XU","raid_type":"5-star","hundo_cp":2249,"weather_hundo_cp":2812,"weather":["Rainy"],"availability":"Regional 5-star raid; active September 23-29, 2026 in Asia-Pacific"},
+    {"pokemon":"Mega Malamar","catch_pokemon":"Malamar","short_name":"MM","raid_type":"Mega","hundo_cp":1347,"weather_hundo_cp":1685,"weather":["Fog","Windy"],"availability":"Mega raid; active September 23-29, 2026"},
+    {"pokemon":"Shadow Thundurus (Incarnate Forme)","short_name":"ST","raid_type":"Shadow 5-star","hundo_cp":1911,"weather_hundo_cp":2389,"weather":["Rainy","Windy"],"availability":"Weekend Shadow 5-star raid; active September 26-27, 2026"}
   ]
 }
