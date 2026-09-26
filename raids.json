@@ -1,7 +1,7 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-24T00:03:00+08:00",
+  "updated_at": "2026-09-26T12:02:36+08:00",
   "hundo-values": "XU 2249/2812\nMM 1347/1685\nST 1911/2389",
   "raids": [
     {
@@ -30,7 +30,7 @@
       "hundo_cp": 1911,
       "weather_hundo_cp": 2389,
       "weather": ["Rainy", "Windy"],
-      "availability": "Shadow raid; active September 9-October 6, 2026"
+      "availability": "Weekend Shadow 5-star raid; active September 26-27, 2026"
     }
   ]
 }
