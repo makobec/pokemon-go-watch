@@ -1,7 +1,7 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-28T06:01:58+08:00",
+  "updated_at": "2026-09-28T09:00:27+08:00",
   "hundo-values": "XU 2249/2812\nMM 1347/1685\nHT 1710/2138",
   "raids": [
     {
@@ -10,9 +10,7 @@
       "raid_type": "5-star",
       "hundo_cp": 2249,
       "weather_hundo_cp": 2812,
-      "weather": [
-        "Rainy"
-      ],
+      "weather": ["Rainy"],
       "availability": "Regional 5-star raid; active September 23-29, 2026 in Asia-Pacific"
     },
     {
@@ -22,10 +20,7 @@
       "raid_type": "Mega",
       "hundo_cp": 1347,
       "weather_hundo_cp": 1685,
-      "weather": [
-        "Fog",
-        "Windy"
-      ],
+      "weather": ["Fog", "Windy"],
       "availability": "Mega raid; active September 23-29, 2026"
     },
     {
@@ -34,10 +29,7 @@
       "raid_type": "3-star",
       "hundo_cp": 1710,
       "weather_hundo_cp": 2138,
-      "weather": [
-        "Sunny",
-        "Fog"
-      ],
+      "weather": ["Sunny", "Fog"],
       "availability": "Normal 3-star raid rotation; active September 23-29, 2026"
     }
   ]
