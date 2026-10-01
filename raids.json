@@ -1,36 +1,36 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-09-29T14:59:10+08:00",
-  "hundo-values": "XU 2249/2812\nMM 1347/1685\nHT 1710/2138",
+  "updated_at": "2026-10-01T09:10:17+08:00",
+  "hundo-values": "Xe 2160/2701\nMV 1389/1736\nDo 1712/2140",
   "raids": [
     {
-      "pokemon": "Xurkitree",
-      "short_name": "XU",
+      "pokemon": "Xerneas",
+      "short_name": "Xe",
       "raid_type": "5-star",
-      "hundo_cp": 2249,
-      "weather_hundo_cp": 2812,
-      "weather": ["Rainy"],
-      "availability": "Regional 5-star raid; active September 23-29, 2026 in Asia-Pacific"
+      "hundo_cp": 2160,
+      "weather_hundo_cp": 2701,
+      "weather": ["Cloudy"],
+      "availability": "5-star raid rotation; active September 30-October 6, 2026"
     },
     {
-      "pokemon": "Mega Malamar",
-      "catch_pokemon": "Malamar",
-      "short_name": "MM",
+      "pokemon": "Mega Victreebel",
+      "catch_pokemon": "Victreebel",
+      "short_name": "MV",
       "raid_type": "Mega",
-      "hundo_cp": 1347,
-      "weather_hundo_cp": 1685,
-      "weather": ["Fog", "Windy"],
-      "availability": "Mega raid; active September 23-29, 2026"
+      "hundo_cp": 1389,
+      "weather_hundo_cp": 1736,
+      "weather": ["Sunny", "Cloudy"],
+      "availability": "Mega raid rotation; active September 30-October 6, 2026"
     },
     {
-      "pokemon": "Hisuian Typhlosion",
-      "short_name": "HT",
+      "pokemon": "Dondozo",
+      "short_name": "Do",
       "raid_type": "3-star",
-      "hundo_cp": 1710,
-      "weather_hundo_cp": 2138,
-      "weather": ["Sunny", "Fog"],
-      "availability": "Normal 3-star raid rotation; active September 23-29, 2026"
+      "hundo_cp": 1712,
+      "weather_hundo_cp": 2140,
+      "weather": ["Rainy"],
+      "availability": "Current 3-star raid rotation; active September 30-October 6, 2026"
     }
   ]
 }
