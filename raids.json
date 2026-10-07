@@ -2,25 +2,30 @@
   "schema_version": 10,
   "timezone": "Asia/Manila",
   "updated_at": "2026-10-07T13:50:30+08:00",
-  "hundo-values": "AP 536/670\nYV 2160/2701\nMB 1409/1761",
+  "hundo-values": "YV 2160/2701\nAP 536/670\nMB 1409/1761",
   "raids": [
-    {
-      "pokemon": "Astronaut Pikachu",
-      "short_name": "AP",
-      "raid_type": "1-star event",
-      "hundo_cp": 536,
-      "weather_hundo_cp": 670,
-      "weather": ["Rainy"],
-      "availability": "World Space Week event raid; active October 4-10, 2026"
-    },
     {
       "pokemon": "Yveltal",
       "short_name": "YV",
       "raid_type": "5-star",
       "hundo_cp": 2160,
       "weather_hundo_cp": 2701,
-      "weather": ["Fog", "Windy"],
+      "weather": [
+        "Fog",
+        "Windy"
+      ],
       "availability": "5-star raid rotation; active October 7-13, 2026"
+    },
+    {
+      "pokemon": "Astronaut Pikachu",
+      "short_name": "AP",
+      "raid_type": "1-star event",
+      "hundo_cp": 536,
+      "weather_hundo_cp": 670,
+      "weather": [
+        "Rainy"
+      ],
+      "availability": "World Space Week event raid; active October 4-10, 2026"
     },
     {
       "pokemon": "Mega Blastoise",
@@ -29,7 +34,9 @@
       "raid_type": "Mega",
       "hundo_cp": 1409,
       "weather_hundo_cp": 1761,
-      "weather": ["Rainy"],
+      "weather": [
+        "Rainy"
+      ],
       "availability": "Mega raid rotation; active October 7-13, 2026"
     }
   ]
