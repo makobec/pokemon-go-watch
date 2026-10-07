@@ -1,36 +1,36 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-10-01T09:10:17+08:00",
-  "hundo-values": "Xe 2160/2701\nMV 1389/1736\nDo 1712/2140",
+  "updated_at": "2026-10-07T13:50:30+08:00",
+  "hundo-values": "AP 536/670\nYV 2160/2701\nMB 1409/1761",
   "raids": [
     {
-      "pokemon": "Xerneas",
-      "short_name": "Xe",
+      "pokemon": "Astronaut Pikachu",
+      "short_name": "AP",
+      "raid_type": "1-star event",
+      "hundo_cp": 536,
+      "weather_hundo_cp": 670,
+      "weather": ["Rainy"],
+      "availability": "World Space Week event raid; active October 4-10, 2026"
+    },
+    {
+      "pokemon": "Yveltal",
+      "short_name": "YV",
       "raid_type": "5-star",
       "hundo_cp": 2160,
       "weather_hundo_cp": 2701,
-      "weather": ["Cloudy"],
-      "availability": "5-star raid rotation; active September 30-October 6, 2026"
+      "weather": ["Fog", "Windy"],
+      "availability": "5-star raid rotation; active October 7-13, 2026"
     },
     {
-      "pokemon": "Mega Victreebel",
-      "catch_pokemon": "Victreebel",
-      "short_name": "MV",
+      "pokemon": "Mega Blastoise",
+      "catch_pokemon": "Blastoise",
+      "short_name": "MB",
       "raid_type": "Mega",
-      "hundo_cp": 1389,
-      "weather_hundo_cp": 1736,
-      "weather": ["Sunny", "Cloudy"],
-      "availability": "Mega raid rotation; active September 30-October 6, 2026"
-    },
-    {
-      "pokemon": "Dondozo",
-      "short_name": "Do",
-      "raid_type": "3-star",
-      "hundo_cp": 1712,
-      "weather_hundo_cp": 2140,
+      "hundo_cp": 1409,
+      "weather_hundo_cp": 1761,
       "weather": ["Rainy"],
-      "availability": "Current 3-star raid rotation; active September 30-October 6, 2026"
+      "availability": "Mega raid rotation; active October 7-13, 2026"
     }
   ]
 }
