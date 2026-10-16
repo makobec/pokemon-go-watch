@@ -1,43 +1,43 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-10-07T13:50:30+08:00",
-  "hundo-values": "YV 2160/2701\nAP 536/670\nMB 1409/1761",
+  "updated_at": "2026-10-16T09:02:54+08:00",
+  "hundo-values": "DI 2307/2884\nMD 2167/2709\nSN 1843/2304",
   "raids": [
     {
-      "pokemon": "Yveltal",
-      "short_name": "YV",
+      "pokemon": "Dialga",
+      "short_name": "DI",
       "raid_type": "5-star",
-      "hundo_cp": 2160,
-      "weather_hundo_cp": 2701,
+      "hundo_cp": 2307,
+      "weather_hundo_cp": 2884,
       "weather": [
-        "Fog",
+        "Snow",
         "Windy"
       ],
-      "availability": "5-star raid rotation; active October 7-13, 2026"
+      "availability": "October 14-20, 2026"
     },
     {
-      "pokemon": "Astronaut Pikachu",
-      "short_name": "AP",
-      "raid_type": "1-star event",
-      "hundo_cp": 536,
-      "weather_hundo_cp": 670,
-      "weather": [
-        "Rainy"
-      ],
-      "availability": "World Space Week event raid; active October 4-10, 2026"
-    },
-    {
-      "pokemon": "Mega Blastoise",
-      "catch_pokemon": "Blastoise",
-      "short_name": "MB",
+      "pokemon": "Mega Dragonite",
+      "catch_pokemon": "Dragonite",
+      "short_name": "MD",
       "raid_type": "Mega",
-      "hundo_cp": 1409,
-      "weather_hundo_cp": 1761,
+      "hundo_cp": 2167,
+      "weather_hundo_cp": 2709,
       "weather": [
-        "Rainy"
+        "Windy"
       ],
-      "availability": "Mega raid rotation; active October 7-13, 2026"
+      "availability": "October 14-20, 2026"
+    },
+    {
+      "pokemon": "Snorlax",
+      "short_name": "SN",
+      "raid_type": "3-star",
+      "hundo_cp": 1843,
+      "weather_hundo_cp": 2304,
+      "weather": [
+        "Partly Cloudy"
+      ],
+      "availability": "October 14-20, 2026"
     }
   ]
 }
