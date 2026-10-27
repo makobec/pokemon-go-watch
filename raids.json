@@ -1,43 +1,44 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-10-16T09:02:54+08:00",
-  "hundo-values": "DI 2307/2884\nMD 2167/2709\nSN 1843/2304",
+  "updated_at": "2026-10-27T12:02:29+08:00",
+  "hundo-values": "SI 650/813\nPK 536/670\nPA 2280/2850",
   "raids": [
     {
-      "pokemon": "Dialga",
-      "short_name": "DI",
+      "pokemon": "Sinistea wearing a bow",
+      "catch_pokemon": "Sinistea",
+      "short_name": "SI",
+      "raid_type": "1-star event",
+      "hundo_cp": 650,
+      "weather_hundo_cp": 813,
+      "weather": [
+        "Fog"
+      ],
+      "availability": "Halloween 2026 Part I event-specific raid; October 27, 2026 10:00 AM through November 1, 2026 10:00 AM local time; continues in Part II"
+    },
+    {
+      "pokemon": "Pikachu wearing a hat and capelet",
+      "catch_pokemon": "Pikachu",
+      "short_name": "PK",
+      "raid_type": "1-star event",
+      "hundo_cp": 536,
+      "weather_hundo_cp": 670,
+      "weather": [
+        "Rainy"
+      ],
+      "availability": "Halloween 2026 Part I event-specific raid; October 27, 2026 10:00 AM through November 1, 2026 10:00 AM local time; continues in Part II"
+    },
+    {
+      "pokemon": "Palkia",
+      "short_name": "PA",
       "raid_type": "5-star",
-      "hundo_cp": 2307,
-      "weather_hundo_cp": 2884,
+      "hundo_cp": 2280,
+      "weather_hundo_cp": 2850,
       "weather": [
-        "Snow",
+        "Rainy",
         "Windy"
       ],
-      "availability": "October 14-20, 2026"
-    },
-    {
-      "pokemon": "Mega Dragonite",
-      "catch_pokemon": "Dragonite",
-      "short_name": "MD",
-      "raid_type": "Mega",
-      "hundo_cp": 2167,
-      "weather_hundo_cp": 2709,
-      "weather": [
-        "Windy"
-      ],
-      "availability": "October 14-20, 2026"
-    },
-    {
-      "pokemon": "Snorlax",
-      "short_name": "SN",
-      "raid_type": "3-star",
-      "hundo_cp": 1843,
-      "weather_hundo_cp": 2304,
-      "weather": [
-        "Partly Cloudy"
-      ],
-      "availability": "October 14-20, 2026"
+      "availability": "Regular 5-star raid rotation; October 21-27, 2026; backfill because only two Halloween event raid bosses qualify"
     }
   ]
 }
