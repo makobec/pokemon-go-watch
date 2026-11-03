@@ -1,8 +1,8 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-10-27T12:02:29+08:00",
-  "hundo-values": "SI 650/813\nPK 536/670\nPA 2280/2850",
+  "updated_at": "2026-11-03T11:55:43+08:00",
+  "hundo-values": "SI 650/813 · PK 536/670\nOG 2105/2631",
   "raids": [
     {
       "pokemon": "Sinistea wearing a bow",
@@ -14,7 +14,7 @@
       "weather": [
         "Fog"
       ],
-      "availability": "Halloween 2026 Part I event-specific raid; October 27, 2026 10:00 AM through November 1, 2026 10:00 AM local time; continues in Part II"
+      "availability": "Halloween 2026 Part II event raid; November 1, 10:00 AM to November 5, 8:00 PM local time"
     },
     {
       "pokemon": "Pikachu wearing a hat and capelet",
@@ -26,19 +26,19 @@
       "weather": [
         "Rainy"
       ],
-      "availability": "Halloween 2026 Part I event-specific raid; October 27, 2026 10:00 AM through November 1, 2026 10:00 AM local time; continues in Part II"
+      "availability": "Halloween 2026 Part II event raid; November 1, 10:00 AM to November 5, 8:00 PM local time"
     },
     {
-      "pokemon": "Palkia",
-      "short_name": "PA",
+      "pokemon": "Giratina (Origin Forme)",
+      "short_name": "OG",
       "raid_type": "5-star",
-      "hundo_cp": 2280,
-      "weather_hundo_cp": 2850,
+      "hundo_cp": 2105,
+      "weather_hundo_cp": 2631,
       "weather": [
-        "Rainy",
+        "Fog",
         "Windy"
       ],
-      "availability": "Regular 5-star raid rotation; October 21-27, 2026; backfill because only two Halloween event raid bosses qualify"
+      "availability": "Regular 5-star raid rotation; October 28 to November 3, 2026, until approximately 8:00 PM local time; backfill because only two Halloween Part II event-specific raid bosses qualify"
     }
   ]
 }
