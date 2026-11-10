@@ -1,44 +1,43 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-11-03T11:55:43+08:00",
-  "hundo-values": "SI 650/813 · PK 536/670\nOG 2105/2631",
+  "updated_at": "2026-11-10T11:57:20+08:00",
+  "hundo-values": "CZ&CS 2188/2735 · OR 1313/1642",
   "raids": [
     {
-      "pokemon": "Sinistea wearing a bow",
-      "catch_pokemon": "Sinistea",
-      "short_name": "SI",
-      "raid_type": "1-star event",
-      "hundo_cp": 650,
-      "weather_hundo_cp": 813,
+      "pokemon": "Zacian (Crowned Sword)",
+      "catch_pokemon": "Zacian (Hero of Many Battles)",
+      "short_name": "CZ",
+      "raid_type": "5-star event",
+      "hundo_cp": 2188,
+      "weather_hundo_cp": 2735,
       "weather": [
-        "Fog"
+        "Cloudy"
       ],
-      "availability": "Halloween 2026 Part II event raid; November 1, 10:00 AM to November 5, 8:00 PM local time"
+      "availability": "Into the Wild event; November 9, 10:00 AM to November 13, 8:00 PM local time"
     },
     {
-      "pokemon": "Pikachu wearing a hat and capelet",
-      "catch_pokemon": "Pikachu",
-      "short_name": "PK",
-      "raid_type": "1-star event",
-      "hundo_cp": 536,
-      "weather_hundo_cp": 670,
+      "pokemon": "Zamazenta (Crowned Shield)",
+      "catch_pokemon": "Zamazenta (Hero of Many Battles)",
+      "short_name": "CS",
+      "raid_type": "5-star event",
+      "hundo_cp": 2188,
+      "weather_hundo_cp": 2735,
       "weather": [
-        "Rainy"
+        "Cloudy"
       ],
-      "availability": "Halloween 2026 Part II event raid; November 1, 10:00 AM to November 5, 8:00 PM local time"
+      "availability": "Into the Wild event; November 9, 10:00 AM to November 13, 8:00 PM local time; special Raid Hour November 10, 6:00-7:00 PM"
     },
     {
-      "pokemon": "Giratina (Origin Forme)",
-      "short_name": "OG",
-      "raid_type": "5-star",
-      "hundo_cp": 2105,
-      "weather_hundo_cp": 2631,
+      "pokemon": "Orthworm",
+      "short_name": "OR",
+      "raid_type": "3-star event",
+      "hundo_cp": 1313,
+      "weather_hundo_cp": 1642,
       "weather": [
-        "Fog",
-        "Windy"
+        "Snow"
       ],
-      "availability": "Regular 5-star raid rotation; October 28 to November 3, 2026, until approximately 8:00 PM local time; backfill because only two Halloween Part II event-specific raid bosses qualify"
+      "availability": "Into the Wild event; November 9, 10:00 AM to November 13, 8:00 PM local time"
     }
   ]
 }
