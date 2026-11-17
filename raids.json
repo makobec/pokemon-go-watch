@@ -1,43 +1,42 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-11-10T11:57:20+08:00",
-  "hundo-values": "CZ&CS 2188/2735 · OR 1313/1642",
+  "updated_at": "2026-11-17T11:59:24+08:00",
+  "hundo-values": "DK 2136/2671 · CR 1633/2041\nMB 1313/1642",
   "raids": [
     {
-      "pokemon": "Zacian (Crowned Sword)",
-      "catch_pokemon": "Zacian (Hero of Many Battles)",
-      "short_name": "CZ",
-      "raid_type": "5-star event",
-      "hundo_cp": 2188,
-      "weather_hundo_cp": 2735,
+      "pokemon": "Darkrai",
+      "short_name": "DK",
+      "raid_type": "5-star",
+      "hundo_cp": 2136,
+      "weather_hundo_cp": 2671,
       "weather": [
-        "Cloudy"
+        "Fog"
       ],
-      "availability": "Into the Wild event; November 9, 10:00 AM to November 13, 8:00 PM local time"
+      "availability": "Normal five-star raids, November 9 06:00 to November 24 22:00 local time"
     },
     {
-      "pokemon": "Zamazenta (Crowned Shield)",
-      "catch_pokemon": "Zamazenta (Hero of Many Battles)",
-      "short_name": "CS",
-      "raid_type": "5-star event",
-      "hundo_cp": 2188,
-      "weather_hundo_cp": 2735,
+      "pokemon": "Cresselia",
+      "short_name": "CR",
+      "raid_type": "5-star",
+      "hundo_cp": 1633,
+      "weather_hundo_cp": 2041,
       "weather": [
-        "Cloudy"
+        "Windy"
       ],
-      "availability": "Into the Wild event; November 9, 10:00 AM to November 13, 8:00 PM local time; special Raid Hour November 10, 6:00-7:00 PM"
+      "availability": "Normal five-star raids, November 9 06:00 to November 24 22:00 local time"
     },
     {
-      "pokemon": "Orthworm",
-      "short_name": "OR",
-      "raid_type": "3-star event",
+      "pokemon": "Mega Banette",
+      "catch_pokemon": "Banette",
+      "short_name": "MB",
+      "raid_type": "Mega",
       "hundo_cp": 1313,
       "weather_hundo_cp": 1642,
       "weather": [
-        "Snow"
+        "Fog"
       ],
-      "availability": "Into the Wild event; November 9, 10:00 AM to November 13, 8:00 PM local time"
+      "availability": "Normal Mega raids, November 16 06:00 to November 24 22:00 local time"
     }
   ]
 }
