@@ -1,42 +1,43 @@
 {
   "schema_version": 10,
   "timezone": "Asia/Manila",
-  "updated_at": "2026-11-17T11:59:24+08:00",
-  "hundo-values": "DK 2136/2671 · CR 1633/2041\nMB 1313/1642",
+  "updated_at": "2026-11-24T11:56:34+08:00",
+  "hundo-values": "ES 1811/2264 · UM 1221/1526\nMH 1505/1882",
   "raids": [
     {
-      "pokemon": "Darkrai",
-      "short_name": "DK",
-      "raid_type": "5-star",
-      "hundo_cp": 2136,
-      "weather_hundo_cp": 2671,
-      "weather": [
-        "Fog"
-      ],
-      "availability": "Normal five-star raids, November 9 06:00 to November 24 22:00 local time"
-    },
-    {
-      "pokemon": "Cresselia",
-      "short_name": "CR",
-      "raid_type": "5-star",
-      "hundo_cp": 1633,
-      "weather_hundo_cp": 2041,
+      "pokemon": "Espeon (Sun Scarf)",
+      "short_name": "ES",
+      "raid_type": "3-star event",
+      "hundo_cp": 1811,
+      "weather_hundo_cp": 2264,
       "weather": [
         "Windy"
       ],
-      "availability": "Normal five-star raids, November 9 06:00 to November 24 22:00 local time"
+      "availability": "Twilight Wishes event raids, November 24 10:00 to November 30 20:00 local time"
     },
     {
-      "pokemon": "Mega Banette",
-      "catch_pokemon": "Banette",
-      "short_name": "MB",
-      "raid_type": "Mega",
-      "hundo_cp": 1313,
-      "weather_hundo_cp": 1642,
+      "pokemon": "Umbreon (Moon Scarf)",
+      "short_name": "UM",
+      "raid_type": "3-star event",
+      "hundo_cp": 1221,
+      "weather_hundo_cp": 1526,
       "weather": [
         "Fog"
       ],
-      "availability": "Normal Mega raids, November 16 06:00 to November 24 22:00 local time"
+      "availability": "Twilight Wishes event raids, November 24 10:00 to November 30 20:00 local time"
+    },
+    {
+      "pokemon": "Mega Houndoom",
+      "catch_pokemon": "Houndoom",
+      "short_name": "MH",
+      "raid_type": "Mega",
+      "hundo_cp": 1505,
+      "weather_hundo_cp": 1882,
+      "weather": [
+        "Fog",
+        "Sunny"
+      ],
+      "availability": "Twilight Wishes event raids, November 24 10:00 to November 30 20:00 local time"
     }
   ]
 }
